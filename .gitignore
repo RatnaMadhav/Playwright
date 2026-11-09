@@ -6,3 +6,30 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+
+# Dependencies
+node_modules/
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Allure Reports
+allure-results/
+allure-report/
+
+# Mac system files
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+
+# Environment variables / secrets
+.env
+.env.*
+
+# VS Code
+.vscode/
