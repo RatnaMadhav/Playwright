@@ -1,0 +1,25 @@
+{
+  "name": "lambdatestplaywright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "@types/jest": "^29.5.5",
+    "@types/node": "^20.6.4",
+    "allure-commandline": "^2.24.0",
+    "allure-playwright": "^2.8.1",
+    "chai": "^4.3.8",
+    "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "typescript": "^5.2.2"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "description": ""
+}
